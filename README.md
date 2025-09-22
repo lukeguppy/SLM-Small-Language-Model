@@ -26,6 +26,10 @@ Run `python -m src` to start the GUI application. The interface provides three m
 - **Training Tab**: Model training with real-time loss curves and metrics
 - **Visualisation Tab**: Attention mechanism exploration and embedding visualisation
 
+## Controls
+
+- **Tab**: Accept the predicted next word in the Input Tab
+
 ## Demo
 https://github.com/user-attachments/assets/7575a0a6-4400-45bf-a019-e63c04929fcc
 

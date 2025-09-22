@@ -27,12 +27,7 @@ Run `python -m src` to start the GUI application. The interface provides three m
 - **Visualisation Tab**: Attention mechanism exploration and embedding visualisation
 
 ## Demo
-
-<video src="readme_graphics/demo.mp4" controls width="600"></video>
-
-*If the video doesn't display above, [click here to download and watch locally](https://github.com/lukeguppy/SLM-Small-Language-Model-/blob/master/readme_graphics/demo.mp4).*
-
-*File: `readme_graphics/demo.mp4` (1.85MB) - plays in most video players and browsers.*
+https://github.com/user-attachments/assets/7575a0a6-4400-45bf-a019-e63c04929fcc
 
 ## Architecture
 

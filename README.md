@@ -30,7 +30,7 @@ Run `python -m src` to start the GUI application. The interface provides three m
 
 <video src="readme_graphics/demo.mp4" controls width="600"></video>
 
-*If the video doesn't display above, [click here to view it](https://github.com/lukeguppy/SLM-Small-Language-Model-/blob/master/readme_graphics/demo.mp4) or download it to watch locally.*
+*If the video doesn't display above, [click here to download and watch locally](https://github.com/lukeguppy/SLM-Small-Language-Model-/blob/master/readme_graphics/demo.mp4).*
 
 ## Architecture
 

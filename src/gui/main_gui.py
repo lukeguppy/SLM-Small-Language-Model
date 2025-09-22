@@ -26,7 +26,7 @@ class CustomProgressBar(QProgressBar):
 class MainGUI(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("SLM Attention Explorer")
+        self.setWindowTitle("SLM")
         self.setMinimumSize(1200, 800)
         self.showMaximized()
 

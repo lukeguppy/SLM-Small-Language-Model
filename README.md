@@ -2,21 +2,47 @@
 
 A transformer-based language model with a graphical user interface for training, inference, and real-time exploration of attention mechanisms and embeddings. Features a clean, maintainable codebase with proper separation of concerns and comprehensive testing.
 
+Here’s a clean, split version for Windows vs Linux/Mac with explicit Python 3.12 usage:
+
 ## Installation
 
-1. Clone or download the repository.
-2. Create a virtual environment:
+1. Clone the repository:
    ```bash
-   python -m venv venv
+   git clone https://github.com/your-username/SLM.git
+   cd SLM
    ```
-   Activate it:
-   - Windows: `venv\Scripts\activate`
-   - Linux/Mac: `source venv/bin/activate`
-3. Run the setup script for your platform:
-    - Windows: `setup.bat` (lists installation options - follow on-screen instructions)
-    - Linux/Mac: `setup.sh` (automatically installs dependencies)
 
-The Linux/Mac script automatically detects CUDA and installs the appropriate dependencies. The Windows script displays options that you need to follow manually. CUDA is optional for GPU acceleration; if available, it will be used for faster training.
+2. **Windows**:
+
+   Create and activate a virtual environment (Python 3.12 recommended):
+
+   ```bash
+   py -3.12 -m venv venv
+   venv\Scripts\activate
+   ```
+
+   Run the setup script (follow on-screen instructions):
+
+   ```bash
+   setup.bat
+   ```
+
+3. **Linux/Mac**:
+
+   Create and activate a virtual environment (Python 3.12 recommended):
+
+   ```bash
+   python3.12 -m venv venv
+   source venv/bin/activate
+   ```
+
+   Run the setup script (auto-detects CUDA and installs dependencies):
+
+   ```bash
+   ./setup.sh
+   ```
+
+**Note**: CUDA is optional. If available, it will be used for GPU acceleration during training.
 
 ## Usage
 

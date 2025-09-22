@@ -26,9 +26,11 @@ Run `python -m src` to start the GUI application. The interface provides three m
 - **Training Tab**: Model training with real-time loss curves and metrics
 - **Visualisation Tab**: Attention mechanism exploration and embedding visualisation
 
-## Result
+## Demo
 
-<video src="readme_graphics/demo.mp4" controls width="600"></video>
+https://github.com/lukeguppy/SLM-Small-Language-Model-/blob/master/readme_graphics/demo.mp4
+
+*Click the link above to view the demo video, or download it to watch locally.*
 
 ## Architecture
 

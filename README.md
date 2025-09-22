@@ -65,7 +65,7 @@ The GUI provides three main tabs:
 
 ## Demo
 
-[View demo assets](https://github.com/user-attachments/assets/7575a0a6-4400-45bf-a019-e63c04929fcc)
+[View demo assets](https://github.com/user-attachments/assets/31e13160-d339-4833-8f5b-5150a053dd16)
 
 ### Model Architecture
 

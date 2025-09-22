@@ -28,11 +28,9 @@ Run `python -m src` to start the GUI application. The interface provides three m
 
 ## Demo
 
-## Demo Video
+<video src="readme_graphics/demo.mp4" controls width="600"></video>
 
-🎥 **[Watch Demo Video](https://github.com/lukeguppy/SLM-Small-Language-Model-/raw/master/readme_graphics/demo.mp4)**
-
-*Click the link above to view the demo video. The video showcases the SLM Attention Explorer interface and functionality.*
+*If the video doesn't display above, [click here to download and watch locally](https://github.com/lukeguppy/SLM-Small-Language-Model-/blob/master/readme_graphics/demo.mp4).*
 
 *File: `readme_graphics/demo.mp4` (1.85MB) - plays in most video players and browsers.*
 

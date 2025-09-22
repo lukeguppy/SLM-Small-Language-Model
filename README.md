@@ -8,13 +8,12 @@ Here’s a clean, split version for Windows vs Linux/Mac with explicit Python 3.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SLM.git
-   cd SLM
+   git clone https://github.com/lukeguppy/SLM-Small-Language-Model.git
    ```
 
 2. **Windows**:
 
-   Create and activate a virtual environment (Python 3.12 recommended):
+   Inside the folder, create and activate a virtual environment (Python 3.12 recommended):
 
    ```bash
    py -3.12 -m venv venv
@@ -29,7 +28,7 @@ Here’s a clean, split version for Windows vs Linux/Mac with explicit Python 3.
 
 3. **Linux/Mac**:
 
-   Create and activate a virtual environment (Python 3.12 recommended):
+   Inside the folder, create and activate a virtual environment (Python 3.12 recommended):
 
    ```bash
    python3.12 -m venv venv

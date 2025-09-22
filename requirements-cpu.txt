@@ -1,0 +1,10 @@
+# CPU-only PyTorch (no CUDA support)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Other dependencies
+PyQt5>=5.15.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
